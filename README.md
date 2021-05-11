@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with structuring and versioning for documentations
 - 💬 Ask me about localization and technical writing skills.
 - 📫 How to reach me: yzeng25@wisc.edu
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: trilingual(Mandarin, Catonese, and English) 
 
 ![](https://github-readme-stats.vercel.app/api?username=yzeng25)
+           
+![](https://github-readme-streak-stats.herokuapp.com/?user=yzeng25)
