@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
+
 **yzeng25/yzeng25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on documentations of SUSE-Rancher's opensource projects: Rancher 2.x, RKE, K3s, Harverster, etc, and Rancher 2.x UI localization .
+- 🌱 I’m currently learning Markdown and JavaScript.
+- 👯 I’m looking to collaborate on any opensource documentations
+- 🤔 I’m looking for help with structuring and versioning for documentations
+- 💬 Ask me about localization and technical writing skills.
+- 📫 How to reach me: yzeng25@wisc.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: trilingual(Mandarin, Catonese, and English) 
+
+![](https://github-readme-stats.vercel.app/api?username=yzeng25)
