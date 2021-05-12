@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about localization and technical writing skills.
 - 📫 How to reach me: yzeng25@wisc.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: trilingual(Mandarin, Catonese, and English) 
+- ⚡ Fun fact: trilingual(Mandarin, Catonese, and English), ❌ lefty ❌ righty ✅ Ambidexterity
 
 ![](https://github-readme-stats.vercel.app/api?username=yzeng25)
            
