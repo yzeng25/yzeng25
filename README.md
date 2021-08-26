@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-
+- 6⃣️ Apache APISIX contributor
 - 🔭 Used to be maintainter and commiter of Rancher's opensource projects' Chinese documents: Rancher 2.x, RKE, K3s, Harverster, etc.
 - 📚 Was responsible for Rancher 2.x UI localization .
 - 🌱 Currently learning Markdown and JavaScript.
