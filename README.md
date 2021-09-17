@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 - 6⃣️ Apache APISIX contributor
-- 🔭 Used to be maintainter and commiter of Rancher's opensource projects' Chinese documents: Rancher 2.x, RKE, K3s, Harverster, etc.
-- 📚 Was responsible for Rancher 2.x UI localization .
+- 🔭 Used to be maintainter of Rancher's opensource projects' Chinese documents: Rancher 2.x, RKE, K3s, Harverster, etc.
+- 📚 Was responsible for Rancher 2.5.8 and 2.5.3 UI localization .
 - 🌱 Currently learning Markdown and JavaScript.
 - 👯 Looking to collaborate on any opensource documentations
 - 🤔 Looking for help with structuring and versioning for documentations
