@@ -2,16 +2,14 @@
 
 
 Here are some ideas to get you started:
-- 6⃣️ Apache APISIX Committer
-- 🔭 Used to be maintainter of Rancher's opensource projects' Chinese documents: Rancher 2.x, RKE, K3s, Harverster, etc.
-- 📚 Was responsible for Rancher 2.5.8 and 2.5.3 UI localization .
-- 🌱 Currently learning Markdown and JavaScript.
-- 👯 Looking to collaborate on any opensource documentations
-- 🤔 Looking for help with structuring and versioning for documentations
-- 💬 Ask me about localization and technical writing skills.
-- 📫 How to reach me: yzeng25@wisc.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: trilingual(Mandarin, Cantonese, and English), ❌ lefty ❌ righty ✅ Ambidexterity
+- Senior technical writer with working knowledge in software and hardware industries.
+- Working knowledge of Git/Markdown/AsciiDoc/JavaScript/Docusaurus ( I learn these to better serve documents).
+- Apache Committer, less than 10 technical writers (that I know of) are awarded with this title.
+- Previously maintainted Rancher's Chinese documents.
+- How to reach me: yilinzeng@apache.org / yzeng25@wisc.edu
+- Pronouns: he/him
+- Fun facts: trilingual & ambidexterity.
+- Been through company aquisitions, lay-offs and other craps in first 4 years of my career.
 
 ![](https://github-readme-stats.vercel.app/api?username=yzeng25)
            
