@@ -2,10 +2,10 @@
 
 
 Here are some ideas to get you started:
-- Senior technical writer with working knowledge in software and hardware industries.
-- Working knowledge of Git/Markdown/AsciiDoc/JavaScript/Docusaurus ( I learn these to better serve documents).
+- Now a Senior technical writer.
+- Working knowledge of Git/CLI/Markdown/AsciiDoc/JavaScript/Docusaurus (I learn these to better serve documents).
 - Apache Committer, less than 10 technical writers (that I know of) are awarded with this title.
-- Previously maintainted Rancher's Chinese documents.
+- Previous maintainter of Rancher's Chinese documents.
 - How to reach me: yilinzeng@apache.org / yzeng25@wisc.edu
 - Pronouns: he/him
 - Fun facts: trilingual & ambidexterity.
