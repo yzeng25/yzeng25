@@ -1,9 +1,3 @@
 ### About me
 
-- Probably one of the youngest senoir technical writers.
-- Less than 10 technical writers (that I know of) are awarded with **Apache Committer title**, I am one of them.
-- Previous maintainter of Rancher's Chinese documents and Apache APISIX blogs.
-- Working knowledge of Git/CLI/Markdown/AsciiDoc/JavaScript/Docusaurus
-- Fun facts: trilingual & ambidexterity.
-- Been through company aquisitions, lay-offs and other craps in first 4 years of my career.
-- How to reach me: yilinzeng@apache.org / yzeng25@wisc.edu
+Experienced technical writer with a demonstrated history of working in the cloud computing industry since 2018. Open source lover, previously maintained Rancher’s Chinese docs, now a committer of Apache APISIX. Skilled in doc-as-code, git, and markdown. Working knowledge of JavaScript and AsciiDoc. Strong analytic and communication skills with a Bachelor's degree in Computer Science from UW-Madison.
