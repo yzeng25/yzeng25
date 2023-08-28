@@ -1,3 +1,3 @@
 ### About me
 
-Experienced technical writer with a demonstrated history of working in the cloud computing industry since 2018. Open source lover, previously maintained Rancher’s Chinese docs, now a committer of Apache APISIX. Skilled in doc-as-code, git, and markdown. Working knowledge of JavaScript and AsciiDoc. Strong analytic and communication skills with a Bachelor's degree in Computer Science from UW-Madison.
+Proficient technical writer with a proven track record in the realm of cloud computing since 2018. Enthusiastic advocate of open source, with past contributions including maintaining Rancher's Chinese documentation, and currently serving as a committer for Apache APISIX. Adept in doc-as-code, Git, and Markdown, with a solid grasp of JavaScript and AsciiDoc. Possesses robust analytical and communicative abilities, supported by a Bachelor's degree in Computer Science from UW-Madison.
