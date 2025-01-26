@@ -1,10 +1,9 @@
 ### About me
 
-5 years of experience as a documentation engineer with deep industry knowledge specializing in technical writing for the consumer audio and cloud computing industries.
+6 years of experience as a technical writer with knowledge specializing in headphone and cloud computing industries.
 
-Proficient in doc-as-code, Git, and Markdown, and contributing high-quality documentation to open source projects such as Rancher and Apache APISIX.
+One of a few technical writers nominated as a Apache Committer.
 
-Strong analytical skills to ensure documentation is accurate and conveys technical information effectively, and excellent communication skills to foster teamwork.
+Proficient in doc-as-code, Git, and Markdown. Working knowledge of JavaScript and React.
 
-
-Find my contributions in Rancher's Chinese documents [here](https://github.com/cnrancher/docs-rancher2/graphs/contributors) and Apache APISIX website [here](https://github.com/apache/apisix-website/graphs/contributors).
+Strong analytical and communication skills.
