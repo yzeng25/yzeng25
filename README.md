@@ -1,6 +1,6 @@
 ### About me
 
-6 years of experience as a technical writer with knowledge specializing in headphone and cloud computing industries.
+7 years of experience as a technical writer with knowledge specializing in headphone and cloud computing industries.
 
 One of a few technical writers nominated as a Apache Committer.
 
